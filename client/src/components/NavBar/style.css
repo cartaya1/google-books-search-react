@@ -1,0 +1,16 @@
+/* Navbar */
+.navbar {
+  background-image: url("../../images/Brown.jpg");
+}
+
+/* Navbar links */
+.nav-link {
+  color: black;
+  font-size: 1.2em;
+  font-weight: 500;
+}
+
+/* Nav link hover */
+.nav-link:hover{
+  color: grey;
+}
