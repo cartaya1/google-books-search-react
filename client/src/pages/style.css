@@ -7,12 +7,12 @@ body {
   border-radius: 10px;
   padding: 0 20px;
   box-shadow: 0px 6px 6px 0px #858585;
-  background: black;
+  background:black;
 }
 
 /* Card */
 .card{
-  background: black;
+  background:whitesmoke;
 }
 
 /* Button */
