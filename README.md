@@ -10,18 +10,11 @@ The Google Books Search MERN app allows users to search for books of interest vi
 
 # Table of Contents
 
-* [Demo](#demo)
-* [Preview](#application-preview)
 * [Installation](#installation)
 * [Features](#features)
 * [Technology](#technology)
 * [Contribution](#contribution)
 * [Questions](#Questions)
-
-# Demo : 
-
-![Google Books](client/src/images/GoogleBooksSearch.gif)
-<br />
 
 # Installation
 
